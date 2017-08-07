@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Tianyu_Li_215211123</string>
+
+    <string name="app_title">Deakin University Guide</string>
+    <string name="About_Deakin">About Deakin</string>
+    <string name="Locations">Locations</string>
+    <string name="Campus_Maps">Campus Maps</string>
+    <string name="Quick_Links">Quick Links</string>
+    <string name="PlayVideo">Play The Video</string>
+    <string name="Deakin_Web">Deakin Web</string>
+    <string name="Contact">Contact</string>
+    <string name="Find_course">Find a course</string>
+    <string name="Submit">Submit</string>
+    <string name="moveto">Move to</string>
+    <string name="back">Back</string>
+    <string name="DeakinSync">DeakinSync</string>
+    <string name="CloudDeakin">CloudDeakin</string>
+    <string name="DeakinMail">DeakinMail</string>
+    <string name="DeakinStudentConnect">Deakin Student Connect</string>
+
+
+    <string-array name="Locations_array">
+        <item>Melbourne Burwood Campus</item>
+        <item>Geelong Waurn Ponds Campus</item>
+        <item>Geelong Waterfront Campus</item>
+        <item>Warrnambool Campus</item>
+        <item>Cloud Campus</item>
+    </string-array>
+
+    <string-array name="CampusMaps_array">
+        <item>Melbourne Burwood Campus</item>
+        <item>Geelong Waurn Ponds Campus</item>
+        <item>Geelong Waterfront Campus</item>
+        <item>Warrnambool Campus</item>
+    </string-array>
+
+    <string-array name="contact_array">
+        <item>Domestic students(Email)</item>
+        <item>Domestic students(Phone)</item>
+        <item>International students(Email)</item>
+        <item>International students(Phone)</item>
+    </string-array>
+
+    <string-array name="Moveto_array">
+        <item>Menu</item>
+        <item>About Deakin</item>
+        <item>Message</item>
+        <item>Quick Links</item>
+    </string-array>
+
+
+</resources>
